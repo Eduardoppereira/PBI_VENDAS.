@@ -44,9 +44,9 @@ Pode acessar o link abaixo para acessar o dashboard:
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> 
 </p> 
 
-## Contato
-Estou sempre aberto para sugestões e melhorias do trabalho! 
+## Feedback
+Estou aberto a feedback construtivo! Sinta-se à vontade para fornecer suas impressões, sugestões ou observações. Juntos, podemos aprimorar ainda mais!
 
-**Links para me acharem:**
-* [LinkedIn](www.linkedin.com/in/eduardo-pedrosap)
+## Contato
+* [LinkedIn](https://www.linkedin.com/in/eduardo-pedrosap)
 * [GitHub](https://github.com/Eduardoppereira)
