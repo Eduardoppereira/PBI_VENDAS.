@@ -44,6 +44,12 @@ Pode acessar o link abaixo para acessar o dashboard:
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> 
 </p> 
 
+#### Capturas de Tela
+<p align="LEFT">
+  <img src="https://github.com/Eduardoppereira/PBI_VENDAS_2/blob/main/Apresenta%C3%A7%C3%A3o12.png" width=80%>
+</p>
+
+
 ## Feedback
 Estou aberto a feedback construtivo! Sinta-se à vontade para fornecer suas impressões, sugestões ou observações. Juntos, podemos aprimorar ainda mais!
 
